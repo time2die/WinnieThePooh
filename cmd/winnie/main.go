@@ -1,6 +1,7 @@
 package main
-import "fmt"
+
+import "github.com/time2die/WinnieThePooh/app"
 
 func main() {
-	fmt.Println("hello world")
+	app.Hell()
 }
